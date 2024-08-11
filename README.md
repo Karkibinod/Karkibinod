@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xbinodkarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xbinodkarki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@karkibinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@karkibinod" height="30" width="40" /></a>
-<a href="https://fb.com/@binodkarki.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@binodkarki.fb" height="30" width="40" /></a>
-<a href="https://instagram.com/@binod___karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@binod___karki" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karkibinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@karkibinod" height="30" width="40" /></a>
+<a href="https://fb.com/binodkarki.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binodkarki.fb" height="30" width="40" /></a>
+<a href="https://instagram.com/binod___karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binod___karki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
