@@ -16,8 +16,7 @@
 I'm **Binod**, a backend-focused **Software Developer** and **AI enthusiast**, currently studying in the USA (F-1).  
 I specialize in **building scalable APIs, backend systems, and AI-powered applications** that solve real-world problems.
 
-### 🔥 Currently Working On  
-- **Afno-Job Platform** – ATS, hiring, automation, dashboards  
+### 🔥 Currently Working On    
 - **EagleEyeNavigation** – Smart navigation system  
 - **VisaGuide** – Platform for international students  
 - **AI Projects** – ATS ranking, Stock prediction, BLIP-2 VQA  
