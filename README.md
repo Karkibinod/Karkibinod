@@ -1,122 +1,36 @@
-<!-- HERO BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=4A90E2&width=600&lines=Hi+I'm+Binod+Karki;Backend+Developer;AI+%7C+Cloud+%7C+Full+Stack;International+Student+in+USA;Building+Real+World+Products" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4A90E2&center=true&vCenter=true&width=500&lines=Hi,+I'm+Binod+Karki;Backend+Developer;Building+Scalable+Systems" />
+</div>
 
-<h1 align="center">🚀 Backend Developer | AI Explorer | Cloud Enthusiast</h1>
-<p align="center">Transforming ideas into scalable systems & intelligent applications</p>
+<div align="center">
+  <a href="https://linkedin.com/in/karkibinod"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ytbinodkarki@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/xbinodkarki"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karkibinod&label=Profile%20Views&color=blue&style=flat" />
-</p>
+<br />
 
----
+### 👨‍💻 About Me
+I am a **Computer Science Student** and **Backend Developer** based in the USA. I specialize in building scalable APIs, cloud-native architectures, and integrating AI models into web applications. I am currently focused on distributed systems and seeking backend engineering internships.
 
-# 🧑‍💻 About Me  
-I'm **Binod**, a backend-focused **Software Developer** and **AI enthusiast**, currently studying in the USA (F-1).  
-I specialize in **building scalable APIs, backend systems, and AI-powered applications** that solve real-world problems.
-
-### 🔥 Currently Working On    
-- **EagleEyeNavigation** – Smart navigation system  
-- **VisaGuide** – Platform for international students  
-- **AI Projects** – ATS ranking, Stock prediction, BLIP-2 VQA  
-- **Backend Systems** – FastAPI, Node.js, PostgreSQL, Docker  
-
-### 🌱 Learning  
-- Java, SEO, Cloud Computing, Machine Learning  
-- Distributed systems & production-level backend architecture  
-
-### 💬 Ask Me About  
-- Backend & APIs  
-- Authentication & security  
-- FastAPI / Node.js  
-- AI model integration  
-- Database design  
-
-### 📫 Email  
-**ytbinodkarki@gmail.com**
+- **🔭 Working on:** EagleEyeNavigation (Smart Navigation) & VisaGuide.
+- **🌱 Learning:** Advanced Distributed Systems & Production-level AI.
+- **💬 Ask me about:** FastAPI, Node.js, Database Design, and Cloud Deployment.
 
 ---
 
-# 🌐 Connect With Me  
-<p align="left">
-  <a href="https://twitter.com/xbinodkarki"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://linkedin.com/in/karkibinod"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://fb.com/binodkarki.fb"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-  <a href="https://instagram.com/binod___karki"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
+### 🛠️ Tech Stack
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Database** | ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ---
 
-# ⚙️ Tech Stack & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,react,postgres,mysql,mongodb,aws,gcp,docker,linux,git,github,java,html,css,js,tailwind" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 Afno-Job – Hiring Platform (ATS + Dashboards)
-A modern job platform with automation, resume scoring, dynamic dashboards, and advanced employer tools.  
-🔗 *Ask me to generate project cards with images too.*
-
----
-
-## 🔹 EagleEyeNavigation – Smart Navigation App  
-Mobile + backend system for real-time navigation, alerts, and tracking.
-
----
-
-## 🔹 VisaGuide – Platform for International Students  
-Helping students with university selection, visa steps, job guidance, and tools.
-
----
-
-## 🔹 AI Projects  
-- Resume ATS ranking system  
-- Stock prediction app (TensorFlow.js)  
-- BLIP-2 VQA image-question answering system  
-
----
-
-# 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karkibinod&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karkibinod&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karkibinod&theme=tokyonight" height="180"/>
-</p>
-
----
-
-# 📈 Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkibinod&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/karkibinod/karkibinod/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 💡 My Goals  
-- Secure a backend SWE internship in the US  
-- Build AI-driven tools that help students & professionals  
-- Improve cloud & distributed system expertise  
-- Launch production-ready apps used by real users  
-
----
-
-# ✨ Final Message  
-Thanks for visiting my profile!  
-If you'd like to collaborate or build something cool, **feel free to reach out anytime.**
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karkibinod&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karkibinod&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</div>
